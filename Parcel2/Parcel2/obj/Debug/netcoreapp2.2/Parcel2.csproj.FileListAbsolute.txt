@@ -1,0 +1,11 @@
+C:\Users\Michael\source\repos\Parcel2\Parcel2\obj\Debug\netcoreapp2.2\Parcel2.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\Parcel2\Parcel2\obj\Debug\netcoreapp2.2\Parcel2.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\Parcel2\Parcel2\obj\Debug\netcoreapp2.2\Parcel2.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\Parcel2\Parcel2\obj\Debug\netcoreapp2.2\Parcel2.AssemblyInfo.cs
+C:\Users\Michael\source\repos\Parcel2\Parcel2\bin\Debug\netcoreapp2.2\Parcel2.deps.json
+C:\Users\Michael\source\repos\Parcel2\Parcel2\bin\Debug\netcoreapp2.2\Parcel2.runtimeconfig.json
+C:\Users\Michael\source\repos\Parcel2\Parcel2\bin\Debug\netcoreapp2.2\Parcel2.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\Parcel2\Parcel2\bin\Debug\netcoreapp2.2\Parcel2.dll
+C:\Users\Michael\source\repos\Parcel2\Parcel2\bin\Debug\netcoreapp2.2\Parcel2.pdb
+C:\Users\Michael\source\repos\Parcel2\Parcel2\obj\Debug\netcoreapp2.2\Parcel2.dll
+C:\Users\Michael\source\repos\Parcel2\Parcel2\obj\Debug\netcoreapp2.2\Parcel2.pdb
